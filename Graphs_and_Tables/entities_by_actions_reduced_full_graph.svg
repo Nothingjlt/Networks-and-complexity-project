@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1256.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-621.000000 -657.395264 1256.000000 1302.395264"
+     height="1302.3953" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10.0"
+              d="M 37.656364,-637.395264 L 282.088898,-559.336243"
+              class="id_9 id_מתכנן_מראש" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 37.656364,-637.395264 C 57.656364,-657.395264 57.656364,-617.395264 37.656364,-637.395264"
+              class="id_9" stroke-opacity="1.0" stroke="#ff7500"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 37.656364,-637.395264 L 73.232140,-413.968109"
+              class="id_9 id_מפקח_המרחב" stroke-opacity="1.0" stroke="#ff5d00"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 37.656364,-637.395264 L -128.461655,-83.305328"
+              class="id_9 id_מפקח_העבודה" stroke-opacity="1.0" stroke="#7fba02"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 286.459991,-282.849884"
+              class="id_12 id_מפקח_הראשי" stroke-opacity="1.0" stroke="#e5ec00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -428.128021,465.307251 L 130.489548,73.847397"
+              class="id_בונה_מקצועי id_14" stroke-opacity="1.0" stroke="#ccd600"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -256.555237,322.051483 L 130.489548,73.847397"
+              class="id_מתכנן_הקמת id_14" stroke-opacity="1.0" stroke="#ccd600"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L 130.489548,73.847397"
+              class="id_מוסד_ביקורת_מוסמך id_14" stroke-opacity="1.0"
+              stroke="#ccd600"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 349.638031,171.190002 L -428.128021,465.307251"
+              class="id_11 id_בונה_מקצועי" stroke-opacity="1.0" stroke="#a5d901"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -128.461655,-83.305328 L -141.415009,-327.411224"
+              class="id_מפקח_העבודה id_מפקח_העתק" stroke-opacity="1.0"
+              stroke="#7fae02"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 349.638031,171.190002 C 392.696686,128.131348 392.696686,214.248657 349.638031,171.190002"
+              class="id_11" stroke-opacity="1.0" stroke="#4cf802"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L 130.489548,73.847397"
+              class="id_13 id_14" stroke-opacity="1.0" stroke="#a5f101"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 130.489548,73.847397"
+              class="id_12 id_14" stroke-opacity="1.0" stroke="#bfef00"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 349.638031,171.190002 L 180.527283,326.554749"
+              class="id_11 id_קבלן" stroke-opacity="1.0" stroke="#3ff902"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 624.761230,18.337435 L 349.638031,171.190002"
+              class="id_ממונה_על_בני id_11" stroke-opacity="1.0"
+              stroke="#a58701"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -360.061371,-117.776840 L 349.638031,171.190002"
+              class="id_10 id_11" stroke-opacity="1.0" stroke="#8bf301"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 363.510498,-59.671898 L -128.461655,-83.305328"
+              class="id_13 id_מפקח_העבודה" stroke-opacity="1.0" stroke="#59f702"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 L 286.459991,-282.849884"
+              class="id_15 id_מפקח_הראשי" stroke-opacity="1.0" stroke="#f2c700"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 363.510498,-59.671898 L -141.415009,-327.411224"
+              class="id_13 id_מפקח_העתק" stroke-opacity="1.0" stroke="#d8a600"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -81.394562,151.076843 L 130.489548,73.847397"
+              class="id_8 id_14" stroke-opacity="1.0" stroke="#66f602"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -81.394562,151.076843 L -360.061371,-117.776840"
+              class="id_8 id_10" stroke-opacity="1.0" stroke="#7ff401"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -340.277161,108.816505 L -360.061371,-117.776840"
+              class="id_7 id_10" stroke-opacity="1.0" stroke="#98f201"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 286.459991,-282.849884 L -360.061371,-117.776840"
+              class="id_מפקח_הראשי id_10" stroke-opacity="1.0" stroke="#d8ed00"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -128.461655,-83.305328 L 73.232140,-413.968109"
+              class="id_מפקח_העבודה id_מפקח_המרחב" stroke-opacity="1.0"
+              stroke="#7fa202"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -128.461655,-83.305328 L 282.088898,-559.336243"
+              class="id_מפקח_העבודה id_מתכנן_מראש" stroke-opacity="1.0"
+              stroke="#7fa202"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -360.061371,-117.776840 L 180.527283,326.554749"
+              class="id_10 id_קבלן" stroke-opacity="1.0" stroke="#7ff401"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 73.232140,-413.968109 L 282.088898,-559.336243"
+              class="id_מפקח_המרחב id_מתכנן_מראש" stroke-opacity="1.0"
+              stroke="#ff4600"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -360.061371,-117.776840 C -331.355621,-146.482605 -331.355621,-89.071075 -360.061371,-117.776840"
+              class="id_10" stroke-opacity="1.0" stroke="#cbee00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -141.415009,-327.411224 L -360.061371,-117.776840"
+              class="id_מפקח_העתק id_10" stroke-opacity="1.0" stroke="#e5a500"/>
+        <path fill="none" stroke-width="20.0"
+              d="M -128.461655,-83.305328 L -360.061371,-117.776840"
+              class="id_מפקח_העבודה id_10" stroke-opacity="1.0" stroke="#65f602"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -610.900330,-174.570206 L -360.061371,-117.776840"
+              class="id_מפקח_על_מקום id_10" stroke-opacity="1.0"
+              stroke="#e58e00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 363.510498,-59.671898"
+              class="id_12 id_13" stroke-opacity="1.0" stroke="#cbee00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L -128.461655,-83.305328"
+              class="id_12 id_מפקח_העבודה" stroke-opacity="1.0" stroke="#72f502"/>
+        <path fill="none" stroke-width="28.0"
+              d="M -81.394562,151.076843 L 180.527283,326.554749"
+              class="id_8 id_קבלן" stroke-opacity="1.0" stroke="#33fa03"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 C 589.306885,-219.693787 589.306885,-179.693787 569.306885,-199.693787"
+              class="id_12" stroke-opacity="1.0" stroke="#e5ec00"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 180.527283,326.554749 L 130.489548,73.847397"
+              class="id_קבלן id_14" stroke-opacity="1.0" stroke="#66f602"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L 349.638031,171.190002"
+              class="id_13 id_11" stroke-opacity="1.0" stroke="#7ff401"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 286.459991,-282.849884 L 130.489548,73.847397"
+              class="id_מפקח_הראשי id_14" stroke-opacity="1.0" stroke="#bfef00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 130.489548,73.847397 C 151.905121,52.431824 151.905121,95.262970 130.489548,73.847397"
+              class="id_14" stroke-opacity="1.0" stroke="#99f201"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -128.461655,-83.305328 L 130.489548,73.847397"
+              class="id_מפקח_העבודה id_14" stroke-opacity="1.0" stroke="#4cf802"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L 130.489548,73.847397"
+              class="id_מפקח_האזורי id_14" stroke-opacity="1.0" stroke="#cce200"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L 349.638031,171.190002"
+              class="id_מוסד_ביקורת_מוסמך id_11" stroke-opacity="1.0"
+              stroke="#a5d901"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 363.510498,-59.671898 L -360.061371,-117.776840"
+              class="id_13 id_10" stroke-opacity="1.0" stroke="#beef00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L -128.461655,-83.305328"
+              class="id_מפקח_האזורי id_מפקח_העבודה" stroke-opacity="1.0"
+              stroke="#7fe802"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 349.638031,171.190002 L 130.489548,73.847397"
+              class="id_11 id_14" stroke-opacity="1.0" stroke="#72f501"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 L 349.638031,171.190002"
+              class="id_15 id_11" stroke-opacity="1.0" stroke="#a5cd01"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L 286.459991,-282.849884"
+              class="id_מפקח_האזורי id_מפקח_הראשי" stroke-opacity="1.0"
+              stroke="#f2df00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L 180.527283,326.554749"
+              class="id_מפקח_האזורי id_קבלן" stroke-opacity="1.0"
+              stroke="#99e601"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 363.510498,-59.671898 L -81.394562,151.076843"
+              class="id_13 id_8" stroke-opacity="1.0" stroke="#72f502"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L -340.277161,108.816505"
+              class="id_13 id_7" stroke-opacity="1.0" stroke="#8bf301"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L 180.527283,326.554749"
+              class="id_13 id_קבלן" stroke-opacity="1.0" stroke="#72f502"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L 286.459991,-282.849884"
+              class="id_13 id_מפקח_הראשי" stroke-opacity="1.0" stroke="#cbee00"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -340.277161,108.816505 L -81.394562,151.076843"
+              class="id_7 id_8" stroke-opacity="1.0" stroke="#4cf802"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 L -360.061371,-117.776840"
+              class="id_15 id_10" stroke-opacity="1.0" stroke="#e5c800"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -128.461655,-83.305328 L 286.459991,-282.849884"
+              class="id_מפקח_העבודה id_מפקח_הראשי" stroke-opacity="1.0"
+              stroke="#72f502"/>
+        <path fill="none" stroke-width="28.0"
+              d="M -128.461655,-83.305328 L 180.527283,326.554749"
+              class="id_מפקח_העבודה id_קבלן" stroke-opacity="1.0"
+              stroke="#19fc03"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -563.109985,269.636810 L -81.394562,151.076843"
+              class="id_מפקח_הכללי id_8" stroke-opacity="1.0" stroke="#998801"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -141.415009,-327.411224 L -81.394562,151.076843"
+              class="id_מפקח_העתק id_8" stroke-opacity="1.0" stroke="#99ab01"/>
+        <path fill="none" stroke-width="26.0"
+              d="M -128.461655,-83.305328 L -81.394562,151.076843"
+              class="id_מפקח_העבודה id_8" stroke-opacity="1.0" stroke="#19fc03"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 C -578.694885,30.764698 -578.694885,70.764694 -598.694885,50.764698"
+              class="id_15" stroke-opacity="1.0" stroke="#ffa300"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 286.459991,-282.849884 L 180.527283,326.554749"
+              class="id_מפקח_הראשי id_קבלן" stroke-opacity="1.0"
+              stroke="#8cf301"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 286.459991,-282.849884 L 349.638031,171.190002"
+              class="id_מפקח_הראשי id_11" stroke-opacity="1.0" stroke="#98f201"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -81.394562,151.076843 C -30.585663,100.267944 -30.585663,201.885742 -81.394562,151.076843"
+              class="id_8" stroke-opacity="1.0" stroke="#33fa03"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -81.394562,151.076843 L 349.638031,171.190002"
+              class="id_8 id_11" stroke-opacity="1.0" stroke="#3ff902"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -81.394562,151.076843 L -428.128021,465.307251"
+              class="id_8 id_בונה_מקצועי" stroke-opacity="1.0" stroke="#99da01"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -610.900330,-174.570206 L -128.461655,-83.305328"
+              class="id_מפקח_על_מקום id_מפקח_העבודה" stroke-opacity="1.0"
+              stroke="#7f9602"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -340.277161,108.816505 L 349.638031,171.190002"
+              class="id_7 id_11" stroke-opacity="1.0" stroke="#58f702"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 92.265121,-158.658783"
+              class="id_12 id_מפקח_האזורי" stroke-opacity="1.0" stroke="#f2df00"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -195.280304,-588.469543 L -128.461655,-83.305328"
+              class="id_ממונה_על_הציוד id_מפקח_העבודה" stroke-opacity="1.0"
+              stroke="#7f9602"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 349.638031,171.190002"
+              class="id_12 id_11" stroke-opacity="1.0" stroke="#98f201"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -81.394562,151.076843 L -211.886002,585.908569"
+              class="id_8 id_מוסד_ביקורת_מוסמך" stroke-opacity="1.0"
+              stroke="#99da01"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -340.277161,108.816505 L 130.489548,73.847397"
+              class="id_7 id_14" stroke-opacity="1.0" stroke="#7ff401"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -195.280304,-588.469543 L -81.394562,151.076843"
+              class="id_ממונה_על_הציוד id_8" stroke-opacity="1.0"
+              stroke="#999401"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L -81.394562,151.076843"
+              class="id_12 id_8" stroke-opacity="1.0" stroke="#8cf301"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L -340.277161,108.816505"
+              class="id_12 id_7" stroke-opacity="1.0" stroke="#a5f101"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 286.459991,-282.849884 L -81.394562,151.076843"
+              class="id_מפקח_הראשי id_8" stroke-opacity="1.0" stroke="#8cf301"/>
+        <path fill="none" stroke-width="14.0"
+              d="M -128.461655,-83.305328 L 349.638031,171.190002"
+              class="id_מפקח_העבודה id_11" stroke-opacity="1.0" stroke="#26fb03"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 363.510498,-59.671898 C 386.291077,-82.452484 386.291077,-36.891312 363.510498,-59.671898"
+              class="id_13" stroke-opacity="1.0" stroke="#b2f001"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L 349.638031,171.190002"
+              class="id_מפקח_האזורי id_11" stroke-opacity="1.0" stroke="#a5e501"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L -128.461655,-83.305328"
+              class="id_מוסד_ביקורת_מוסמך id_מפקח_העבודה" stroke-opacity="1.0"
+              stroke="#7fdd02"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L -256.555237,322.051483"
+              class="id_מוסד_ביקורת_מוסמך id_מתכנן_הקמת" stroke-opacity="1.0"
+              stroke="#ffbb00"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 363.510498,-59.671898 L 92.265121,-158.658783"
+              class="id_13 id_מפקח_האזורי" stroke-opacity="1.0" stroke="#d8e100"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L 180.527283,326.554749"
+              class="id_מוסד_ביקורת_מוסמך id_קבלן" stroke-opacity="1.0"
+              stroke="#99da01"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L -428.128021,465.307251"
+              class="id_מוסד_ביקורת_מוסמך id_בונה_מקצועי" stroke-opacity="1.0"
+              stroke="#ffbb00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -128.461655,-83.305328 L -256.555237,322.051483"
+              class="id_מפקח_העבודה id_מתכנן_הקמת" stroke-opacity="1.0"
+              stroke="#7fdd02"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -128.461655,-83.305328 L -428.128021,465.307251"
+              class="id_מפקח_העבודה id_בונה_מקצועי" stroke-opacity="1.0"
+              stroke="#7fdd02"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L -81.394562,151.076843"
+              class="id_מפקח_האזורי id_8" stroke-opacity="1.0" stroke="#99e601"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -256.555237,322.051483 L 180.527283,326.554749"
+              class="id_מתכנן_הקמת id_קבלן" stroke-opacity="1.0"
+              stroke="#99da01"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -256.555237,322.051483 L -428.128021,465.307251"
+              class="id_מתכנן_הקמת id_בונה_מקצועי" stroke-opacity="1.0"
+              stroke="#ffbb00"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -81.394562,151.076843 L -256.555237,322.051483"
+              class="id_8 id_מתכנן_הקמת" stroke-opacity="1.0" stroke="#99da01"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 180.527283,326.554749 L -428.128021,465.307251"
+              class="id_קבלן id_בונה_מקצועי" stroke-opacity="1.0"
+              stroke="#99da01"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.278643,406.078522 L 577.667175,245.841827"
+              class="id_ממונה_על_שיטת id_מפקח_על_הבטיחות" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.278643,406.078522 L 32.720097,634.177612"
+              class="id_ממונה_על_שיטת id_מתכנן_שלד" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.278643,406.078522 L 258.084259,567.552307"
+              class="id_ממונה_על_שיטת id_מתכנן_המחוז" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.278643,406.078522 L 442.657623,434.563080"
+              class="id_ממונה_על_שיטת id_מתכנן_השיטה" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -26.278643,406.078522 L 180.527283,326.554749"
+              class="id_ממונה_על_שיטת id_קבלן" stroke-opacity="1.0"
+              stroke="#99b701"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 577.667175,245.841827 L 32.720097,634.177612"
+              class="id_מפקח_על_הבטיחות id_מתכנן_שלד" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 577.667175,245.841827 L 258.084259,567.552307"
+              class="id_מפקח_על_הבטיחות id_מתכנן_המחוז" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 577.667175,245.841827 L 442.657623,434.563080"
+              class="id_מפקח_על_הבטיחות id_מתכנן_השיטה" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 577.667175,245.841827 L 180.527283,326.554749"
+              class="id_מפקח_על_הבטיחות id_קבלן" stroke-opacity="1.0"
+              stroke="#99b701"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 32.720097,634.177612 L 258.084259,567.552307"
+              class="id_מתכנן_שלד id_מתכנן_המחוז" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 32.720097,634.177612 L 442.657623,434.563080"
+              class="id_מתכנן_שלד id_מתכנן_השיטה" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 32.720097,634.177612 L 180.527283,326.554749"
+              class="id_מתכנן_שלד id_קבלן" stroke-opacity="1.0" stroke="#99b701"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 258.084259,567.552307 L 442.657623,434.563080"
+              class="id_מתכנן_המחוז id_מתכנן_השיטה" stroke-opacity="1.0"
+              stroke="#ff7500"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 258.084259,567.552307 L 180.527283,326.554749"
+              class="id_מתכנן_המחוז id_קבלן" stroke-opacity="1.0"
+              stroke="#99b701"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 442.657623,434.563080 L 180.527283,326.554749"
+              class="id_מתכנן_השיטה id_קבלן" stroke-opacity="1.0"
+              stroke="#99b701"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -340.277161,108.816505 L -428.128021,465.307251"
+              class="id_7 id_בונה_מקצועי" stroke-opacity="1.0" stroke="#b2d801"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -340.277161,108.816505 L 180.527283,326.554749"
+              class="id_7 id_קבלן" stroke-opacity="1.0" stroke="#4cf802"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -340.277161,108.816505 L -256.555237,322.051483"
+              class="id_7 id_מתכנן_הקמת" stroke-opacity="1.0" stroke="#b2d801"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -340.277161,108.816505 L 286.459991,-282.849884"
+              class="id_7 id_מפקח_הראשי" stroke-opacity="1.0" stroke="#a5f101"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -340.277161,108.816505 C -315.620941,84.160286 -315.620941,133.472717 -340.277161,108.816505"
+              class="id_7" stroke-opacity="1.0" stroke="#65f602"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -340.277161,108.816505 L -128.461655,-83.305328"
+              class="id_7 id_מפקח_העבודה" stroke-opacity="1.0" stroke="#32fa03"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -211.886002,585.908569 L -340.277161,108.816505"
+              class="id_מוסד_ביקורת_מוסמך id_7" stroke-opacity="1.0"
+              stroke="#b2d801"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 569.306885,-199.693787 L 180.527283,326.554749"
+              class="id_12 id_קבלן" stroke-opacity="1.0" stroke="#8cf301"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -256.555237,322.051483 L 349.638031,171.190002"
+              class="id_מתכנן_הקמת id_11" stroke-opacity="1.0" stroke="#a5d901"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 L -340.277161,108.816505"
+              class="id_15 id_7" stroke-opacity="1.0" stroke="#b2cc01"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -598.694885,50.764698 L -128.461655,-83.305328"
+              class="id_15 id_מפקח_העבודה" stroke-opacity="1.0" stroke="#7fd102"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 92.265121,-158.658783 L -340.277161,108.816505"
+              class="id_מפקח_האזורי id_7" stroke-opacity="1.0" stroke="#b2e401"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff0000" r="10.0" cx="-421.5261"
+                class="id_מתכנן_המיתקן" cy="-406.01456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="10.0" cx="484.43033"
+                class="id_ממונה_על_העבודה" cy="-416.56906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="577.6672"
+                class="id_מפקח_על_הבטיחות" cy="245.84183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="258.08426"
+                class="id_מתכנן_המחוז" cy="567.5523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e5ec00" r="11.054095" cx="286.46"
+                class="id_מפקח_הראשי" cy="-282.84988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff1700" r="10.0" cx="624.7612"
+                class="id_ממונה_על_בני" cy="18.337435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff1700" r="10.0" cx="-563.11"
+                class="id_מפקח_הכללי" cy="269.6368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff4600" r="10.0" cx="282.0889"
+                class="id_מתכנן_מראש" cy="-559.33624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#99f201" r="10.707786" cx="130.48955"
+                class="id_14" cy="73.8474" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4cf802" r="21.529324" cx="349.63803"
+                class="id_11" cy="171.19" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="37.656364"
+                class="id_9" cy="-637.39526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00ff04" r="48.602123" cx="-128.46165"
+                class="id_מפקח_העבודה" cy="-83.30533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff4600" r="10.0" cx="73.23214"
+                class="id_מפקח_המרחב" cy="-413.9681" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b2f001" r="11.390293" cx="363.5105"
+                class="id_13" cy="-59.671898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffa300" r="10.0" cx="-598.6949"
+                class="id_15" cy="50.764698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2e00" r="10.0" cx="-610.9003"
+                class="id_מפקח_על_מקום" cy="-174.5702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d00" r="10.0" cx="-141.41501"
+                class="id_מפקח_העתק" cy="-327.41122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2e00" r="10.0" cx="-195.2803"
+                class="id_ממונה_על_הציוד" cy="-588.46954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="442.65762"
+                class="id_מתכנן_השיטה" cy="434.56308" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffbb00" r="10.0" cx="-428.12802"
+                class="id_בונה_מקצועי" cy="465.30725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="-26.278643"
+                class="id_ממונה_על_שיטת" cy="406.07852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e5ec00" r="10.0" cx="569.3069"
+                class="id_12" cy="-199.69379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffbb00" r="10.0" cx="-211.886"
+                class="id_מוסד_ביקורת_מוסמך" cy="585.90857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffbb00" r="10.0" cx="-256.55524"
+                class="id_מתכנן_הקמת" cy="322.05148" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffd200" r="10.0" cx="92.26512"
+                class="id_מפקח_האזורי" cy="-158.65878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff7500" r="10.0" cx="32.720097"
+                class="id_מתכנן_שלד" cy="634.1776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33fa03" r="25.40445" cx="-81.39456"
+                class="id_8" cy="151.07684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cbee00" r="14.352881" cx="-360.06137"
+                class="id_10" cy="-117.77684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33fa03" r="50.0" cx="180.52728"
+                class="id_קבלן" cy="326.55475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="10.0" cx="-421.5261"
+                class="id_ממונה_על_המחוז" cy="-406.01456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#65f602" r="12.32811" cx="-340.27716"
+                class="id_7" cy="108.816505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="577.6672" y="251.33206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_על_הבטיחות">
+            מפקח על הבטיחות
+        </text>
+        <text font-size="24" x="258.08426" y="571.9097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מתכנן_המחוז">
+            מתכנן המחוז
+        </text>
+        <text font-size="27" x="286.46" y="-277.94778" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_הראשי">
+            מפקח הראשי
+        </text>
+        <text font-size="24" x="624.7612" y="22.919466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ממונה_על_בני">
+            ממונה על בני
+        </text>
+        <text font-size="24" x="-563.11" y="275.12704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_הכללי">
+            מפקח הכללי
+        </text>
+        <text font-size="24" x="282.0889" y="-554.9788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מתכנן_מראש">
+            מתכנן מראש
+        </text>
+        <text font-size="26" x="130.48955" y="79.42064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_14">
+            ממונה על ארגז, ממונה על הארגז
+        </text>
+        <text font-size="52" x="349.63803" y="180.69879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_11">
+            הבודק המוסמך, בודק מוסמך, בודק המוסמך
+        </text>
+        <text font-size="24" x="37.656364" y="-632.25073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_9">
+            ממונה על פיצוצים, ממונה על הפיצוצים
+        </text>
+        <text font-size="117" x="-128.46165" y="-62.062897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_העבודה">
+            מפקח העבודה
+        </text>
+        <text font-size="24" x="73.23214" y="-409.6107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_המרחב">
+            מפקח המרחב
+        </text>
+        <text font-size="27" x="363.5105" y="-53.8843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_13">
+            ממונה על ביצוע, ממונה על ביצועו
+        </text>
+        <text font-size="24" x="-598.6949" y="56.254932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_15">
+            מוסמך למתן איתות, המוסמך למתן איתות
+        </text>
+        <text font-size="24" x="-610.9003" y="-169.07997" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_על_מקום">
+            מפקח על מקום
+        </text>
+        <text font-size="24" x="-141.41501" y="-323.0538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_העתק">
+            מפקח העתק
+        </text>
+        <text font-size="24" x="-195.2803" y="-583.8875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ממונה_על_הציוד">
+            ממונה על הציוד
+        </text>
+        <text font-size="24" x="442.65762" y="438.93222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מתכנן_השיטה">
+            מתכנן השיטה
+        </text>
+        <text font-size="24" x="-428.12802" y="469.6471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_בונה_מקצועי">
+            בונה מקצועי
+        </text>
+        <text font-size="24" x="-26.278643" y="410.66055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ממונה_על_שיטת">
+            ממונה על שיטת
+        </text>
+        <text font-size="24" x="569.3069" y="-194.20355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_12">
+            מפקח הורה, מפקח על אי, מפקח על, מפקח הוא
+        </text>
+        <text font-size="24" x="-211.886" y="590.29724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מוסד_ביקורת_מוסמך">
+            מוסד ביקורת מוסמך
+        </text>
+        <text font-size="24" x="-256.55524" y="326.4089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מתכנן_הקמת">
+            מתכנן הקמת
+        </text>
+        <text font-size="24" x="92.26512" y="-154.30136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מפקח_האזורי">
+            מפקח האזורי
+        </text>
+        <text font-size="24" x="32.720097" y="639.66785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_מתכנן_שלד">
+            מתכנן שלד
+        </text>
+        <text font-size="61" x="-81.39456" y="162.23138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_8">
+            המעסיק, מעסיק
+        </text>
+        <text font-size="34" x="-360.06137" y="-110.488754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_10">
+            ממונה על בטיחות, ממונה על הבטיחות
+        </text>
+        <text font-size="120" x="180.52728" y="354.00592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_קבלן">
+            קבלן
+        </text>
+        <text font-size="30" x="-340.27716" y="113.80918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_7">
+            מבצע הבניה, מבצע בניה
+        </text>
+    </g>
+</svg>
